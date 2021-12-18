@@ -1,0 +1,18 @@
+The multi-label classification allows us to classify dataset with more than one variable
+
+We are using
+1. Logistic Regression
+2. Random Forest
+3. SVM
+as classification models
+
+And 
+1. binary relevance
+2. classifier chains
+3. label powerset
+as methods/techniques
+
+And
+1. accuracy
+2. hamming loss
+as measurements
