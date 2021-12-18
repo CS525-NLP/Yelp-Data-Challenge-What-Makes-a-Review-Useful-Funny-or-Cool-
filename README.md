@@ -10,3 +10,5 @@ In this project, we used the Yelp Data Challenge dataset to explore the useful/f
 Google CoLab
 ## Preprossed data file
 Google Drive
+## Github link
+https://github.com/CS525-NLP/Yelp-Data-Challenge-What-Makes-a-Review-Useful-Funny-or-Cool-
