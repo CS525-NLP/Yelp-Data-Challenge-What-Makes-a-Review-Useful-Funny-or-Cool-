@@ -6,3 +6,7 @@ In this project, we used the Yelp Data Challenge dataset to explore the useful/f
 - Data Preprocessing 
 - Multi-task Classification
 - Multi-output Regression
+## Environment
+Google CoLab
+## Preprossed data file
+Google Drive
